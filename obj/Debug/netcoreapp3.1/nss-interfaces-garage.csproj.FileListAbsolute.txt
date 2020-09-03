@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.exe
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.deps.json
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.runtimeconfig.json
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.runtimeconfig.dev.json
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.dll
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\bin\Debug\netcoreapp3.1\nss-interfaces-garage.pdb
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.dll
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.pdb
+C:\Users\sever\workspace\csharp\exercises\nss-interfaces-garage\obj\Debug\netcoreapp3.1\nss-interfaces-garage.genruntimeconfig.cache
